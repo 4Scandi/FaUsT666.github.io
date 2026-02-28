@@ -1,0 +1,10 @@
+{
+  "name": "faust-card",
+  "version": "1.0.0",
+  "description": "Minimalist dark cyberpunk personal visiting card for FaUsT.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
+
